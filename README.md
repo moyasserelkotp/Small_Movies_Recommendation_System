@@ -37,3 +37,11 @@ The recommender system has a web-based interface built using **Streamlit**, allo
 ```bash
 git clone https://github.com/your-username/movie-recommender-system.git
 cd movie-recommender-system
+
+![image](https://github.com/user-attachments/assets/deb8916b-2be2-4bb6-b148-a2e40df0cde9)
+![image](https://github.com/user-attachments/assets/f9689f02-b8e1-4f2f-aa76-8cd03c020b29)
+![image](https://github.com/user-attachments/assets/cd8b53db-2e1e-43d1-91fd-da0a6745ea04)
+
+
+
+
