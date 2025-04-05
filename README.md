@@ -40,9 +40,3 @@ The recommender system has a web-based interface built using **Streamlit**, allo
 ```bash
 git clone https://github.com/your-username/movie-recommender-system.git
 cd movie-recommender-system
-
-
-
-
-
-
